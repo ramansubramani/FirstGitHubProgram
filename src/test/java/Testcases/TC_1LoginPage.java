@@ -10,6 +10,10 @@ public class TC_1LoginPage {
 			System.out.println("Welcome To World");	
 		}
 		
+for (int i = 0; i < 2; i++) {
+	System.out.println("pursuit of happiness");
+}
+		
 		
 		
 
